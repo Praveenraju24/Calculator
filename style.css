@@ -1,0 +1,26 @@
+
+.plus,.minus,.div,.mul,.btn,.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.zero,.clear,.lb,.rb,.mod,.fact,.ncr,.npr,.prime,.sqrt,
+.gcd,.lcm,.arm{
+    width:120px;
+    height:40px;
+    font-size: 18px;
+    background-color: white;
+    color:black;
+}
+.plus:hover,.minus:hover,.div:hover,.mul:hover,.btn:hover,.one:hover,.two:hover,.three:hover,.four:hover,.five:hover,.six:hover,.seven:hover,.eight:hover,.nine:hover,.zero:hover,.clear:hover,.lb:hover,
+.rb:hover,.mod:hover,.fact:hover,.ncr:hover,.npr:hover,.prime:hover,.sqrt:hover,.lcm:hover,.gcd:hover,.arm:hover{
+  background-color:   #19A7CE;
+}
+.pow:hover{
+  background-color: #FFD966;
+}
+body{
+  background-color: #8294C4;
+}
+.pow{
+    border-radius: 25px;
+    width:200px;
+    height:100px;
+    background-color: white;
+    color:black;
+}
